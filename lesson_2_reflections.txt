@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+creates folder for version control. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is in between the 2. You can choose which files to put in the staging area before you commit them to the repository. 
+
