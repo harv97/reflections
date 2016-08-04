@@ -21,3 +21,7 @@ They do.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Different changes that were made to code in both branches are combined in to the one code set and one branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto merging takes care of changes where there is no conflict, saving you from having to manually look for differences and updating the code. It also prevents you from introducing bugs due to typos etc.
