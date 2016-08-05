@@ -17,3 +17,7 @@ You can work on the latest version of the remote while offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Probably by email. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would make changes in a seperate branch when you are collaborating with other developers. It allows you to create pull requests so that other people can see and review your code before you merge it with the master branch.
